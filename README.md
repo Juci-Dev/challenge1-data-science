@@ -9,7 +9,9 @@ A participação percentual de cada loja no total.
 
 Identificar a loja com pior desempenho (Loja 4, com 23,6% do faturamento total).
 
- Tecnologias e Bibliotecas Utilizadas
+ Tecnologias e Bibliotecas Utilizadas:
+
+ 
 🐍 Python 3
 Linguagem de programação para leitura, processamento e visualização de dados.
 
